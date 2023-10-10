@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Ristar",
+        "console": "SMD",
+        "numberOfPlayers": "1"
+    },
+    {
+        "id": 2,
+        "name": "Streets of Rage 2",
+        "console": "SMD",
+        "numberOfPlayers": "2"
+    },
+    {
+        "id": 3,
+        "name": "Sonic",
+        "console": "SMD",
+        "numberOfPlayers": "1"
+    },
+    {
+        "id": 4,
+        "name": "Zelda",
+        "console": "NES",
+        "numberOfPlayers": "1"
+    },
+    {
+        "id": 5,
+        "name": "Super Mario World",
+        "console": "SNES",
+        "numberOfPlayers": "2"
+    },
+    {
+        "id": 6,
+        "name": "Mega Man 5",
+        "console": "NES",
+        "numberOfPlayers": "1"
+    },
+    {
+        "id": 7,
+        "name": "TailSpin",
+        "console": "NES",
+        "numberOfPlayers": "1"
+    },
+    {
+        "id": 8,
+        "name": "Comic Zone",
+        "console": "SMD",
+        "numberOfPlayers": "1"
+    },
+    {
+        "id": 9,
+        "name": "Turtles In Time",
+        "console": "SNES",
+        "numberOfPlayers": "2"
+    },
+    {
+        "id": 10,
+        "name": "Super Metroid",
+        "console": "SNES",
+        "numberOfPlayers": "1"
+    }
+]
